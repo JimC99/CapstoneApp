@@ -1,0 +1,12 @@
+name: JCShinyApp
+title: JCShinyApp
+username:
+account: g00dquestion
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1038176
+bundleId: 2245712
+url: https://g00dquestion.shinyapps.io/JCShinyApp/
+when: 1563488326.52258
+asMultiple: FALSE
+asStatic: FALSE
